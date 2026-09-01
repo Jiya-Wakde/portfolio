@@ -83,3 +83,4 @@ All content is structured cleanly in static TypeScript data files:
 * **Skills Data**: Edit `src/data/skills.ts` to update categorized technical skills and link them to project IDs.
 * **Timeline & Progress**: Edit `src/data/journey.ts` for engineering milestones and active "CURRENTLY IN PROGRESS" experiments.
 * **About & Socials**: Edit `src/data/about.ts` for bio text, location, email, and social links.
+# portfolio
