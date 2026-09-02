@@ -5,7 +5,7 @@ export const ABOUT_DATA = {
   discipline: 'COMPUTER ENGINEERING // SOFTWARE × HARDWARE',
   location: 'INDIA',
   batch: 'CCoEWN BATCH OF 2028',
-  photo: '/images/Jiya Wakde_tp.png',
+  photo: '../public/jiya-wakde.png',
   photoAlt: 'Jiya Wakde — Computer Engineering Student',
   photoCaption: 'OPERATOR // JIYA WAKDE',
   photoId: 'JW-2028-SPEC',
