@@ -29,7 +29,7 @@ export const About: React.FC<AboutProps> = ({ setCursorState }) => {
 
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
           <h2 className="text-4xl sm:text-6xl font-extrabold uppercase text-[#F2F2EE] tracking-tight">
-            ABOUT <span className="text-[#B7FF00]">JIYA WAKDE</span>
+            ABOUT <span className="text-[#B7FF00]">ME!</span>
           </h2>
           <div className="font-mono text-xs text-[#777777] flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[#B7FF00] animate-pulse" />
