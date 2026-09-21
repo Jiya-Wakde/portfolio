@@ -123,7 +123,7 @@ export const Contact: React.FC<ContactProps> = ({ setCursorState }) => {
 
           {/* Resume View Card */}
           <a
-            href={`${import.meta.env.BASE_URL}resume.pdf`}
+            href="/portfolio/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => {
