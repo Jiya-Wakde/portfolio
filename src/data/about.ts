@@ -31,6 +31,6 @@ export const ABOUT_DATA = {
     email: 'jiyawakde@gmail.com',
     github: 'https://github.com/Jiya-Wakde',
     linkedin: 'https://www.linkedin.com/in/jiya-wakde',
-    resumeUrl: '#resume'
+    resumeUrl: './resume'
   }
 };
